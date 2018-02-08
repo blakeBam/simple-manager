@@ -1,0 +1,6 @@
+To_Do_List/**
+!To_Do_List/app
+To_Do_List/app/**
+!To_Do_List/app/src
+To_Do_List/app/src/androidTest
+To_Do_List/app/src/test
